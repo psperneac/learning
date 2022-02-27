@@ -41,3 +41,11 @@ body {
     font-size: 0.75rem;
     margin: 0.25rem;
 }
+
+.book img {
+    height: 10rem;
+}
+
+.book p {
+    margin-top: 0.5rem;
+}
