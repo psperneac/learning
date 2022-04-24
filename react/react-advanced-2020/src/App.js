@@ -1,8 +1,12 @@
-import React from 'react'
+import React from 'react';
+import ErrorExample from './ErrorExample';
+import UseStateBasics from './UseStateBasics';
+
 function App() {
   return (
     <div className='container'>
-      <h2>Advanced Tutorial</h2>
+      <ErrorExample></ErrorExample>
+      <UseStateBasics></UseStateBasics>
     </div>
   )
 }
